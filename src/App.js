@@ -8,7 +8,7 @@ import api from './api';
 function App() {
 
 
-  //  Essa Função vai coletar Dados na API dos Correios Cep e retornar uma respostas
+  //  Essa Função vai coletar Dados na API dos Correios Cep e retornar!
 
   async function ColetaCep() {
     if (input === '') {
