@@ -26,4 +26,4 @@ Para executar o projeto, siga os seguintes passos:
 
 ## Considerações Finais
 
-Este projeto foi desenvolvido como parte de um estudo de desenvolvimento web com React. Sinta-se à vontade para utilizar o código como base para seus próprios projetos. Caso tenha alguma sugestão de melhoria ou encontre algum bug, sinta-se livre para abrir uma "issue" no repositório.
+Sinta-se à vontade para utilizar o código como base para seus próprios projetos.
